@@ -1,0 +1,410 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2">
+
+    
+    <string name="copied_to_clipboard">Disalin ke papan klip</string>
+    <string name="longpress_to_clipboard">Tekan lama untuk menyalin</string>
+
+    
+    <string name="notification_log_summary">Tampilkan log riwayat notifikasi</string>
+
+     
+    <string name="package_details_group_title">Rincian paket</string>
+    <string name="package_name">Nama paket</string>
+    <string name="package_version">Versi paket</string> 
+    <string name="package_version_text"><ns0:g id="version_num">%1$s</ns0:g></string>
+    
+    
+    <string name="device_info_protected_single_press">Tap to show info</string>
+    
+    
+    <string name="about_device_name">Device</string>
+    <string name="infinity_version">Infinity version</string>
+    <string name="infinity_version_default">Unknown</string>
+    <string name="keywords_infinity_version">Infinity X version, infinity x version</string>
+
+    
+    <string name="build_date">Tanggal pembuatan</string>
+    <string name="build_date_default">2015-01-01-0000</string>
+    <string name="keywords_build_date">build date, build info</string>
+
+    
+    <string name="infinity_maintainer">Device Maintainer</string>
+
+    
+    <string name="device_market_name">Market Name</string>
+    <string name="soc_model">Model SoC</string>
+    <string name="total_ram">Total RAM</string>
+
+    
+    <string name="selinux_status">SELinux status</string>
+    <string name="selinux_status_disabled">Disabled</string>
+    <string name="selinux_status_permissive">Permissive</string>
+    <string name="selinux_status_enforcing">Enforcing</string>
+    
+    
+     <string name="infinity_suite_dash_title">Infinity Suite</string>
+     <string name="infinity_suite_summary">Personalize your device further</string>
+     
+    
+    <string name="channel_light_settings_id" translatable="false">light_settings</string>
+    <string name="channel_light_settings_name">Light settings preview</string>
+
+    
+    <string name="edit_light_settings">Edit light settings</string>
+    <string name="pulse_speed_title">Pulse length and speed</string>
+    <string name="default_time">Normal</string>
+    <string name="custom_time">Custom</string>
+    <string name="dialog_delete_title">Delete</string>
+    <string name="dialog_delete_message">Remove selected item?</string>
+    <string name="brightness">Brightness level</string>
+    <string name="choose_app">Choose app</string>
+
+    
+    <string name="pulse_length_always_on">Always on</string>
+    <string name="pulse_length_very_short">Very short</string>
+    <string name="pulse_length_short">Short</string>
+    <string name="pulse_length_normal">Normal</string>
+    <string name="pulse_length_long">Long</string>
+    <string name="pulse_length_very_long">Very long</string>
+    <string name="pulse_speed_very_fast">Very fast</string>
+    <string name="pulse_speed_fast">Fast</string>
+    <string name="pulse_speed_normal">Normal</string>
+    <string name="pulse_speed_slow">Slow</string>
+    <string name="pulse_speed_very_slow">Very slow</string>
+
+    
+    <string name="light_brightness_title">Brightness levels</string>
+    <string name="light_brightness_normal">Normal</string>
+    <string name="light_brightness_zen">Do Not Disturb</string>
+
+    
+    <string name="battery_light_title">Nyalakan lampu saat mengisi daya</string>
+    <string name="battery_light_summary">Customize battery charging light behaviour</string>
+    <string name="battery_light_enable_title">Enable battery light</string>
+    <string name="battery_low_pulse_title">Pulse if battery low</string>
+    <string name="battery_light_full_charge_disabled_title">Turn off when fully charged</string>
+    <string name="battery_light_list_title">Colors</string>
+    <string name="battery_light_low_color_title">Battery low</string>
+    <string name="battery_light_medium_color_title">Charging</string>
+    <string name="battery_light_full_color_title">Fully charged</string>
+    <string name="battery_light_brightness_normal" translatable="false">@string/light_brightness_normal</string>
+    <string name="battery_light_brightness_zen" translatable="false">@string/light_brightness_zen</string>
+
+    
+    <string name="notification_light_title">Notification light</string>
+    <string name="notification_light_summary">Customize Notification light behaviour</string>
+    <string name="notification_light_enable_title">Enable notification light</string>
+    <string name="notification_light_general_title">General</string>
+    <string name="notification_light_advanced_title">Advanced</string>
+    <string name="notification_light_applist_title">Apps</string>
+    <string name="notification_light_phonelist_title">Phone</string>
+    <string name="notification_light_use_custom">Use custom values</string>
+    <string name="notification_light_default_value">Default</string>
+    <string name="notification_light_missed_call_title">Missed call</string>
+    <string name="notification_light_voicemail_title">Voicemail</string>
+    <string name="notification_light_brightness_normal" translatable="false">@string/light_brightness_normal</string>
+    <string name="notification_light_brightness_zen" translatable="false">@string/light_brightness_zen</string>
+    <string name="notification_light_screen_on">Lights with screen on</string>
+    <string name="notification_light_zen_mode">Lights in Do Not Disturb mode</string>
+    <string name="keywords_lights_brightness_level">dim leds brightness</string>
+    <string name="notification_light_automagic">Choose colors automatically</string>
+    <string name="notification_light_automagic_summary">Choosing colors automatically</string>
+
+    
+    <string name="led_notification_title">Light settings</string>
+    <string name="led_notification_text">LED light enabled by settings</string>
+    <string name="notification_light_add_apps_empty_summary">To add per app control, activate \'%1$s\' and press \'Add\'</string>
+     
+    
+    <string name="three_finger_gesture">Swipe to screenshot</string>
+    <string name="three_finger_gesture_summary">Swipe down with three fingers to take a screenshot</string>
+    
+    
+     <string name="fingerprint_enroll_find_sensor_message_front">Temukan sensor sidik jari di bagian depan ponsel Anda.</string>
+     <string name="fingerprint_enroll_find_sensor_message_rear">Temukan sensor sidik jari di bagian belakang ponsel Anda.</string>
+     <string name="fingerprint_enroll_find_sensor_message_side">Temukan sensor sidik jari di bagian samping ponsel Anda.</string>
+          
+     
+     <string name="fingerprint_enroll_touch_dialog_message_front">Sentuh sensor di bagian depan ponsel Anda.</string>
+     <string name="fingerprint_enroll_touch_dialog_message_rear">Sentuh sensor di bagian belakang ponsel Anda.</string>
+     <string name="fingerprint_enroll_touch_dialog_message_side">Sentuh sensor di bagian samping ponsel Anda.</string>
+          
+     
+     <string name="storage_warning_internal">Peringatan: Opsi ini mungkin tidak berfungsi dengan baik atau menyebabkan hilangnya data dan oleh karena itu tidak disarankan!</string>
+     
+     
+    <string name="density_category">Density options</string>
+     
+    
+    <string name="radio_info_title">Info radio</string>
+    
+    
+    <string name="lock_screen_auto_pin_confirm_summary_custom">Unlock automatically if you input a correct PIN. This is slightly less secure than tapping Enter to confirm.</string>
+    
+    
+    <integer name="config_network_scan_helper_max_search_time_sec">300</integer>
+
+    
+    <string name="display_engine_category">Display Engine</string>
+    <string name="display_engine_mode_title">Reality Display Engine</string>
+    <string name="x_reality_engine_mode_title">X-Reality Engine</string>
+    <string name="vivid_engine_mode_title">Vivid Display</string>
+    <string name="display_engine_default">Default</string>
+    <string name="display_engine_mode_footer_text">Inspired by Sony\'s Bravia/X-Reality engine, the Display Engine features Vivid mode for enhanced brightness and color saturation, and X-Reality mode for improved detail and color accuracy.</string>
+    
+    
+    <string name="app_play_store">Google Play</string>
+    
+    
+    <string name="battery_temperature">Battery temperature</string>
+    <string name="battery_stat_temp">Temperature</string>
+    <string name="battery_stat_capacity">Capacity</string>
+    <string name="battery_stat_cycle">Cycle</string>
+    <string name="status_unavailable">Unknown</string>
+
+    
+    <string name="default_user">User</string>
+    
+    
+    <string name="berry_black_theme_title">Pure black</string>
+    <string name="berry_black_theme_summary">Pure black background for dark theme</string>
+    
+    
+    <string name="cellular_data_title">Mobile data</string>
+
+    
+    <string name="app_volume">Volume aplikasi</string>
+    <string name="app_volume_title">Kontrol volume per aplikasi</string>
+    <string name="app_volume_summary">Izinkan untuk mengatur tingkat volume yang berbeda untuk setiap aplikasi</string>
+          
+    
+    <string name="app_notification_sound_timeout_title">Waktu minimum antara suara notifikasi</string>
+    <string name="app_notification_sound_timeout_summary_template">Izinkan suara atau getaran tidak lebih dari sekali setiap <ns0:g id="duration">%1$s</ns0:g></string>
+    <string name="app_notification_sound_timeout_value_none">Tidak ada batasan</string>
+    <string name="app_notification_sound_timeout_value_10_seconds">10 detik</string>
+    <string name="app_notification_sound_timeout_value_30_seconds">30 detik</string>
+    <string name="app_notification_sound_timeout_value_1_minute">1 menit</string>
+    <string name="app_notification_sound_timeout_value_5_minutes">5 menit</string>
+    <string name="app_notification_sound_timeout_value_15_minutes">10 menit</string>
+    <string name="app_notification_sound_timeout_value_30_minutes">30 menit</string>
+     
+     
+    <string name="display_rotation_title">Setelan rotasi</string>
+    <string name="display_rotation_enabled">Rotasi otomatis diaktifkan</string>
+    <string name="display_rotation_disabled">Rotasi otomatis dinonaktifkan</string>
+    <string name="display_rotation_unit">derajat</string>
+    <string name="display_rotation_category_title">Mode rotasi</string>
+    <string name="display_rotation_0_title">0 derajat</string>
+    <string name="display_rotation_90_title">90 derajat</string>
+    <string name="display_rotation_180_title">180 derajat</string>
+    <string name="display_rotation_270_title">270 derajat</string>
+    
+    
+    <string name="tethering_allow_vpn_upstreams_title">Izinkan klien untuk menggunakan VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Izinkan klien hotspot untuk menggunakan koneksi VPN perangkat ini untuk konektivitas upstream</string>
+    
+    
+    <string name="screenshot_shutter_sound_title">Suara tangkapan layar</string>
+    
+    
+    <string name="navbar_invert_layout_title">Invert navigation bar layout</string>
+    <string name="navbar_invert_info">Swap the \"Back\" and \"Recents\" buttons on the navigation
+          bar</string>
+          
+    
+    <string name="high_touch_sensitivity_title">Sensitivitas sentuh tinggi</string>
+    <string name="high_touch_sensitivity_summary">Meningkatkan kepekaan layar sentuh sehingga dapat digunakan saat mengenakan sarung tangan</string>
+
+    
+    <string name="touchscreen_hovering_title">Layar sentuh melayang</string>
+    <string name="touchscreen_hovering_summary">Mengizinkan Anda mengambangkan jari di atas layar seperti menggunakan mouse dalam penjelajah browser, desktop jarak jauh, dll</string>
+          
+    
+    <string name="high_touch_polling_rate_title">Tingkat polling sentuh tinggi</string>
+    <string name="high_touch_polling_rate_summary">Tingkatkan tingkat polling layar sentuh</string>
+    
+    
+    <string name="proximity_wake_title">Mencegah bangun yang tidak disengaja</string>
+    <string name="proximity_wake_summary">Periksa sensor proximity sebelum membangunkan layar</string>
+    
+    
+    <string name="charging_sounds_nos_title">Charging sound</string>
+    <string name="charging_vibro_title">Charging vibration</string>
+    
+    
+    <string name="power_button_torch_title">Senter cepat</string>
+    <string name="power_button_torch_summary">Saat layar mati, menekan lama tombol daya akan mengaktifkan senter</string>
+    <string name="torch_long_press_power_timeout_title">Matikan senter secara otomatis</string>
+    <string name="torch_long_press_power_timeout_never">Jangan pernah</string>
+    <string name="torch_long_press_power_timeout_1min">1 menit</string>
+    <string name="torch_long_press_power_timeout_2min">2 menit</string>
+    <string name="torch_long_press_power_timeout_5min">5 menit</string>
+    <string name="torch_long_press_power_timeout_10min">10 menit</string>
+    
+    
+    <string name="click_partial_screenshot_title">Click to partial screenshot</string>
+    <string name="click_partial_screenshot_summary">Short click Volume Down and Power to take partial screenshot</string>
+
+    
+    <string name="volume_steps_title">Volume Steps</string>
+    <string name="volume_steps_summary">Control the granularity of each stream</string>
+    <string name="max_music_volume_title">Media</string>
+    <string name="max_call_volume_title">Calls</string>
+    <string name="max_alarm_volume_title">Alarms</string>
+    <string name="steps_unit">steps</string>
+
+    
+    <string name="charging_control_title">Kontrol pengisian daya</string>
+    <string name="charging_control_summary">Sesuaikan jadwal dan batasan pengisian daya untuk perangkat Anda</string>
+    <string name="charging_control_enable_title">Aktifkan kontrol pengisian daya</string>
+    <string name="charging_control_mode_title">Mode pengisian daya</string>
+    <string name="charging_control_mode_auto_title">Jadwal otomatis</string>
+    <string name="charging_control_mode_auto_summary">Secara otomatis menentukan kapan mulai mengisi daya berdasarkan alarm yang disetel</string>
+    <string name="charging_control_mode_custom_title">Jadwal kustom</string>
+    <string name="charging_control_mode_custom_summary">Tetapkan target waktu untuk mengisi penuh</string>
+    <string name="charging_control_mode_limit_title">Pengisian daya terbatas</string>
+    <string name="charging_control_mode_limit_summary">Batasi pengisian daya hingga persentase tertentu</string>
+    <string name="charging_control_start_time_title">Waktu mulai</string>
+    <string name="charging_control_start_time_summary">Kontrol pengisian daya aktif saat Anda mulai mengisi daya setelah %s</string>
+    <string name="charging_control_target_time_title">Targetkan waktu hingga terisi penuh</string>
+    <string name="charging_control_target_time_summary">Baterai akan terisi penuh pada %s</string>
+    <string name="charging_control_limit_title">Batas</string>
+    <string name="reset">Reset</string>
+
+    
+    <string name="fast_charging_title">Pengisian Cepat</string>
+    <string name="fast_charging_summary">Nonaktifkan untuk mengurangi panas yang dihasilkan perangkat saat mengisi daya atau untuk memperpanjang masa pakai baterai</string>
+    <string name="restricted_current_summary">Tetapkan arus maksimum yang diizinkan (mA)</string>
+    <string name="fastcharge_disabled_extended_summary">Charge limited to: <ns0:g id="current" example="3000 mA">%1$s</ns0:g>.</string>
+
+    
+    <string name="string_enabled">Enabled</string>
+    <string name="string_disabled">Disabled</string>
+    <string name="string_on">On</string>
+    <string name="string_off">Off</string>
+    
+    
+    <string name="lockpattern_settings_enable_error_path_title">Tampilkan kesalahan pola</string>
+    
+    <string name="lockpattern_settings_enable_dots_title">Tampilkan titik-titik pola</string>
+    
+    
+    <string name="lock_pattern_size_3" translatable="false">3 \u00d7 3</string>
+    <string name="lock_pattern_size_4" translatable="false">4 \u00d7 4</string>
+    <string name="lock_pattern_size_5" translatable="false">5 \u00d7 5</string>
+    <string name="lock_pattern_size_6" translatable="false">6 \u00d7 6</string>
+    <string name="lock_settings_picker_pattern_size_message">Pilih ukuran pola</string>
+    
+    
+    <string name="unlock_scramble_pin_layout_title">Tata letak acak</string>
+    <string name="unlock_scramble_pin_layout_summary">Acak tata letak PIN saat membuka perangkat</string>
+
+    
+    <string name="gesture_navbar_length_title">Panjang gestur bilah navigasi</string>
+    <string name="short_label">Pendek</string>
+    <string name="long_label">Panjang</string>
+    
+    
+    <string name="back_height_low_label">Penuh</string>
+    <string name="back_height_high_label">Bawah</string>
+    <string name="back_height_title">Tinggi gestur kembali</string>
+    <string name="back_height_summary">Tinggi layar berlaku untuk gestur kembali</string>
+    
+    
+    <string name="background_processes_settings_title">Proses latar belakang</string>
+
+    
+    <string name="smart_5g_title">Smart 5G</string>
+    <string name="smart_5g_summary">Automatically switch between 5G and 4G to reduce battery consumption</string>
+
+    
+    <string name="display_cutout_force_fullscreen_title">Aplikasi layar penuh</string>
+    <string name="display_cutout_force_fullscreen_summary">Paksa aplikasi untuk mengabaikan jarak notch</string>
+    <string name="display_cutout_force_fullscreen_search">Search</string>
+    <string name="display_cutout_force_fullscreen_search_apps">Search apps</string>
+
+    
+    <string name="gesture_settings_title">Gesture Navigation</string>
+
+    
+    <string name="show_navbar_gesture_bar_title">Gesture bar</string>
+    <string name="show_navbar_gesture_bar_summary">Show gesture bar at the bottom of the screen</string>
+
+    
+    <string name="navigation_bar_ime_space_title">Ruang tombol IME</string>
+    <string name="ime_narrow">Sempit</string>
+    <string name="ime_default">Bawaan</string>
+    <string name="ime_hidden">Sembunyikan</string>
+
+    
+    <string name="dc_dimming_title">Peredupan DC</string>
+    <string name="dc_dimming_info">Mengurangi ketegangan mata dalam kondisi cahaya rendah dengan meminimalkan kedipan layar. Dapat mengakibatkan penurunan kualitas gambar dan produksi warna yang buruk, atau konsumsi daya yang lebih tinggi.</string>
+    <string name="dc_dimming_main_switch_title">Gunakan Peredupan DC</string>
+    <string name="keywords_display_dc_dimming">peredupan dc, anti-kedip, ketegangan mata</string>
+
+    
+    <string name="live_display_summary">Optimalkan layar Anda berdasarkan waktu dan kondisi sekitar untuk meningkatkan keterbacaan dan mengurangi kelelahan mata</string>
+    <string name="live_display_mode">Mode tampilan</string>
+    <string name="live_display_color_temperature_title">Temperatur warna</string>
+    <string name="live_display_color_temperature_summary">Pagi: <ns0:g id="day_temperature">%1$d</ns0:g>K  Night: <ns0:g id="night_temperature">%2$d</ns0:g>K</string>
+    <string name="live_display_color_temperature_label"><ns0:g id="degrees">%1$d</ns0:g>K</string>
+    <string name="live_display_day">Siang</string>
+    <string name="live_display_night">Malam</string>
+    <string name="live_display_outdoor_mode_title">Mode luar ruangan otomatis</string>
+    <string name="live_display_outdoor_mode_summary">Meningkatkan kecerahan dan saturasi secara otomatis saat di bawah sinar matahari</string>
+    <string name="live_display_anti_flicker_title">Anti kerlip</string>
+    <string name="live_display_anti_flicker_summary">Cegah kerlipan yang luas dan kurangi ketegangan mata dalam kondisi cahaya redup. Ini dapat menurunkan akurasi warna dan mempengaruhi cara beberapa item ditampilkan.</string>
+    <string name="live_display_low_power_title">Mengurangi konsumsi daya</string>
+    <string name="live_display_low_power_summary">Menyesuaikan tampilan untuk konsumsi daya terendah tanpa degradasi</string>
+    <string name="live_display_enhance_color_title">Meningkatkan warna</string>
+    <string name="live_display_enhance_color_summary">Meningkatkan vibran warna dari corak terang, pemandangan dan gambar lain</string>
+    <string name="live_display_color_profile_title">Profil warna</string>
+    <string name="live_display_color_profile_standard_title">Standar</string>
+    <string name="live_display_color_profile_standard_summary">Warna yang akurat dan putih terang</string>
+    <string name="live_display_color_profile_natural_title">Natural</string>
+    <string name="live_display_color_profile_natural_summary">Warna realistis dan warna kulit</string>
+    <string name="live_display_color_profile_dynamic_title">Dinamis</string>
+    <string name="live_display_color_profile_dynamic_summary">Peningkatan warna dan putih terang</string>
+    <string name="live_display_color_profile_cinema_title">Sinema</string>
+    <string name="live_display_color_profile_cinema_summary">Reproduksi warna yang sempurna untuk video</string>
+    <string name="live_display_color_profile_astronomy_title">Astronomi</string>
+    <string name="live_display_color_profile_astronomy_summary">Merah gelap untuk mempertahankan penglihatan malam</string>
+    <string name="live_display_color_profile_photography_title">Fotografi</string>
+    <string name="live_display_color_profile_photography_summary">Reproduksi warna yang sempurna untuk foto</string>
+    <string name="live_display_color_profile_basic_title">Tingkat Dasar</string>
+    <string name="live_display_color_profile_basic_summary">Gunakan tampilan yang belum dikalibrasi</string>
+    <string name="live_display_color_profile_adaptive_title">Adaptif</string>
+    <string name="live_display_color_profile_adaptive_summary">Warna beradaptasi dengan kondisi sekitar</string>
+    <string name="live_display_color_profile_reading_title">Membaca</string>
+    <string name="live_display_color_profile_reading_summary">Warna yang lebih hangat untuk mengurangi kelelahan mata</string>
+    <string name="live_display_color_profile_srgb_title">sRGB</string>
+    <string name="live_display_color_profile_srgb_summary">Warna akurat ke ruang warna sRGB</string>
+    <string name="live_display_color_profile_dci_p3_title">DCI-P3</string>
+    <string name="live_display_color_profile_dci_p3_summary">Warna akurat ke ruang warna DCI-P3</string>
+    <string name="live_display_reading_mode_title">Mode membaca</string>
+    <string name="live_display_reading_mode_summary">Mode warna abu-abu untuk pembacaan jangka panjang</string>
+    <string name="color_calibration_title">Kalibrasi warna</string>
+    <string name="color_calibration_summary">Kalibrasi warna pada layar</string>
+    <string name="color_red_title">Merah</string>
+    <string name="color_green_title">Hijau</string>
+    <string name="color_blue_title">Biru</string>
+
+    
+    <string name="picture_adjustment_title">Penyesuaian Gambar</string>
+    <string name="picture_adjustment_summary">Sesuaikan warna, saturasi, intensitas, dan kontras</string>
+    <string name="adj_hue_title">Warna</string>
+    <string name="adj_saturation_title">Saturasi</string>
+    <string name="adj_intensity_title">Intensitas</string>
+    <string name="adj_contrast_title">Kontras</string>
+
+    
+    <string name="force_lte_ca">Paksa LTE CA</string>
+    <string name="force_lte_ca_summary">Paksa agregasi operator LTE agar berfungsi</string>
+
+    
+    <string name="bluetooth_timeout">Batas waktu Bluetooth</string>
+    
+    <string name="bluetooth_timeout_summary">Bluetooth akan dimatikan setelah <ns0:g id="timeout_description">%1$s</ns0:g> if no devices connected</string>
+    <string name="bluetooth_timeout_summary2">Jangan matikan Bluetooth secara otomatis</string>
+</resources>

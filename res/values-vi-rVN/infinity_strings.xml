@@ -1,0 +1,410 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:ns0="urn:oasis:names:tc:xliff:document:1.2">
+
+    
+    <string name="copied_to_clipboard">Đã sao chép vào bảng nhớ tạm</string>
+    <string name="longpress_to_clipboard">Nhấn giữ để sao chép</string>
+
+    
+    <string name="notification_log_summary">Hiển thị nhật ký lịch sử thông báo</string>
+
+     
+    <string name="package_details_group_title">Chi tiết gói</string>
+    <string name="package_name">Tên gói</string>
+    <string name="package_version">Phiên bản gói</string> 
+    <string name="package_version_text"><ns0:g id="version_num">%1$s</ns0:g></string>
+    
+    
+    <string name="device_info_protected_single_press">Tap to show info</string>
+    
+    
+    <string name="about_device_name">Device</string>
+    <string name="infinity_version">Infinity version</string>
+    <string name="infinity_version_default">Unknown</string>
+    <string name="keywords_infinity_version">Infinity X version, infinity x version</string>
+
+    
+    <string name="build_date">Ngày dựng</string>
+    <string name="build_date_default">2015-01-01-0000</string>
+    <string name="keywords_build_date">build date, build info</string>
+
+    
+    <string name="infinity_maintainer">Device Maintainer</string>
+
+    
+    <string name="device_market_name">Market Name</string>
+    <string name="soc_model">Mẫu SoC</string>
+    <string name="total_ram">Tổng RAM</string>
+
+    
+    <string name="selinux_status">SELinux status</string>
+    <string name="selinux_status_disabled">Disabled</string>
+    <string name="selinux_status_permissive">Permissive</string>
+    <string name="selinux_status_enforcing">Enforcing</string>
+    
+    
+     <string name="infinity_suite_dash_title">Infinity Suite</string>
+     <string name="infinity_suite_summary">Personalize your device further</string>
+     
+    
+    <string name="channel_light_settings_id" translatable="false">light_settings</string>
+    <string name="channel_light_settings_name">Xem trước cài đặt đèn sáng</string>
+
+    
+    <string name="edit_light_settings">Chỉnh sửa cài đặt đèn sáng</string>
+    <string name="pulse_speed_title">Thời gian và tốc độ nháy</string>
+    <string name="default_time">Bình thường</string>
+    <string name="custom_time">Tùy chỉnh</string>
+    <string name="dialog_delete_title">Xoá</string>
+    <string name="dialog_delete_message">Xoá các mục đã chọn?</string>
+    <string name="brightness">Độ sáng</string>
+    <string name="choose_app">Chọn ứng dụng</string>
+
+    
+    <string name="pulse_length_always_on">Luôn bật</string>
+    <string name="pulse_length_very_short">Rất ngắn</string>
+    <string name="pulse_length_short">Ngắn</string>
+    <string name="pulse_length_normal">Bình thường</string>
+    <string name="pulse_length_long">Dài</string>
+    <string name="pulse_length_very_long">Rất dài</string>
+    <string name="pulse_speed_very_fast">Rất nhanh</string>
+    <string name="pulse_speed_fast">Nhanh</string>
+    <string name="pulse_speed_normal">Bình thường</string>
+    <string name="pulse_speed_slow">Chậm</string>
+    <string name="pulse_speed_very_slow">Rất chậm</string>
+
+    
+    <string name="light_brightness_title">Các mức độ sáng</string>
+    <string name="light_brightness_normal">Bình thường</string>
+    <string name="light_brightness_zen">Không làm phiền</string>
+
+    
+    <string name="battery_light_title">Đèn báo sạc pin</string>
+    <string name="battery_light_summary">Tùy chỉnh hành vi của đèn báo pin</string>
+    <string name="battery_light_enable_title">Bật đèn báo pin</string>
+    <string name="battery_low_pulse_title">Đèn nhấp nháy khi pin yếu</string>
+    <string name="battery_light_full_charge_disabled_title">Tắt khi đã sạc đầy</string>
+    <string name="battery_light_list_title">Màu sắc</string>
+    <string name="battery_light_low_color_title">Pin yếu</string>
+    <string name="battery_light_medium_color_title">Pin trung bình</string>
+    <string name="battery_light_full_color_title">Đã sạc (90%)</string>
+    <string name="battery_light_brightness_normal" translatable="false">@string/light_brightness_normal</string>
+    <string name="battery_light_brightness_zen" translatable="false">@string/light_brightness_zen</string>
+
+    
+    <string name="notification_light_title">Đèn thông báo</string>
+    <string name="notification_light_summary">Tùy chỉnh hành vi của đèn thông báo</string>
+    <string name="notification_light_enable_title">Bật đèn thông báo</string>
+    <string name="notification_light_general_title">Chung</string>
+    <string name="notification_light_advanced_title">Nâng cao</string>
+    <string name="notification_light_applist_title">Ứng dụng</string>
+    <string name="notification_light_phonelist_title">Điện thoại</string>
+    <string name="notification_light_use_custom">Sử dụng giá trị tùy chọn</string>
+    <string name="notification_light_default_value">Mặc định</string>
+    <string name="notification_light_missed_call_title">Cuộc gọi nhỡ</string>
+    <string name="notification_light_voicemail_title">Thư thoại</string>
+    <string name="notification_light_brightness_normal" translatable="false">@string/light_brightness_normal</string>
+    <string name="notification_light_brightness_zen" translatable="false">@string/light_brightness_zen</string>
+    <string name="notification_light_screen_on">Bật đèn thông báo khi màn hình bật</string>
+    <string name="notification_light_zen_mode">Đèn báo ở chế độ Không Làm Phiền</string>
+    <string name="keywords_lights_brightness_level">giảm độ sáng đèn</string>
+    <string name="notification_light_automagic">Chọn màu tự động</string>
+    <string name="notification_light_automagic_summary">Chọn màu một cách tự động</string>
+
+    
+    <string name="led_notification_title">Cài đặt đèn</string>
+    <string name="led_notification_text">Đèn LED được bật theo cài đặt</string>
+    <string name="notification_light_add_apps_empty_summary">Để thêm điều khiển cho từng ứng dụng, hãy kích hoạt \'%1$s\' và nhấn \'Thêm\'</string>
+     
+    
+    <string name="three_finger_gesture">Swipe to screenshot</string>
+    <string name="three_finger_gesture_summary">Swipe down with three fingers to take a screenshot</string>
+    
+    
+     <string name="fingerprint_enroll_find_sensor_message_front">Định vị cảm biến vân tay trên mặt trước điện thoại của bạn.</string>
+     <string name="fingerprint_enroll_find_sensor_message_rear">Định vị cảm biến vân tay ở mặt sau điện thoại của bạn.</string>
+     <string name="fingerprint_enroll_find_sensor_message_side">Định vị cảm biến vân tay ở cạnh bên điện thoại của bạn.</string>
+          
+     
+     <string name="fingerprint_enroll_touch_dialog_message_front">Chạm vào cảm biến trên mặt trước điện thoại của bạn.</string>
+     <string name="fingerprint_enroll_touch_dialog_message_rear">Chạm vào cảm biến ở mặt sau điện thoại của bạn.</string>
+     <string name="fingerprint_enroll_touch_dialog_message_side">Chạm vào cảm biến ở cạnh bên điện thoại của bạn.</string>
+          
+     
+     <string name="storage_warning_internal">Cảnh báo: Tuỳ chọn này không được khuyến khích! Nó có thể hoạt động không đúng hoặc gây mất dữ liệu.</string>
+     
+     
+    <string name="density_category">Density options</string>
+     
+    
+    <string name="radio_info_title">Thông tin radio</string>
+    
+    
+    <string name="lock_screen_auto_pin_confirm_summary_custom">Tự động mở khóa nếu bạn nhập mã PIN đúng. Việc này sẽ khiến bảo mật kém hơn là nhấn Enter để xác nhận.</string>
+    
+    
+    <integer name="config_network_scan_helper_max_search_time_sec">300</integer>
+
+    
+    <string name="display_engine_category">Display Engine</string>
+    <string name="display_engine_mode_title">Reality Display Engine</string>
+    <string name="x_reality_engine_mode_title">X-Reality Engine</string>
+    <string name="vivid_engine_mode_title">Vivid Display</string>
+    <string name="display_engine_default">Default</string>
+    <string name="display_engine_mode_footer_text">Inspired by Sony\'s Bravia/X-Reality engine, the Display Engine features Vivid mode for enhanced brightness and color saturation, and X-Reality mode for improved detail and color accuracy.</string>
+    
+    
+    <string name="app_play_store">Cửa hàng Google Play</string>
+    
+    
+    <string name="battery_temperature">Nhiệt độ</string>
+    <string name="battery_stat_temp">Temperature</string>
+    <string name="battery_stat_capacity">Capacity</string>
+    <string name="battery_stat_cycle">Cycle</string>
+    <string name="status_unavailable">Unknown</string>
+
+    
+    <string name="default_user">User</string>
+    
+    
+    <string name="berry_black_theme_title">Pure black</string>
+    <string name="berry_black_theme_summary">Pure black background for dark theme</string>
+    
+    
+    <string name="cellular_data_title">Mobile data</string>
+
+    
+    <string name="app_volume">Âm thanh ứng dụng</string>
+    <string name="app_volume_title">Kiểm soát âm lượng cho mỗi ứng dụng</string>
+    <string name="app_volume_summary">Cho phép đặt các mức âm lượng khác nhau cho từng ứng dụng</string>
+          
+    
+    <string name="app_notification_sound_timeout_title">Thời gian tối thiểu giữa các âm thanh thông báo</string>
+    <string name="app_notification_sound_timeout_summary_template">Cho phép âm thanh hoặc rung một lần mỗi <ns0:g id="duration">%1$s</ns0:g></string>
+    <string name="app_notification_sound_timeout_value_none">Không giới hạn</string>
+    <string name="app_notification_sound_timeout_value_10_seconds">10 giây</string>
+    <string name="app_notification_sound_timeout_value_30_seconds">30 giây</string>
+    <string name="app_notification_sound_timeout_value_1_minute">1 phút</string>
+    <string name="app_notification_sound_timeout_value_5_minutes">5 phút</string>
+    <string name="app_notification_sound_timeout_value_15_minutes">10 phút</string>
+    <string name="app_notification_sound_timeout_value_30_minutes">30 phút</string>
+     
+     
+    <string name="display_rotation_title">Cài đặt xoay</string>
+    <string name="display_rotation_enabled">Tự động xoay được bật</string>
+    <string name="display_rotation_disabled">Tự động xoay bị tắt</string>
+    <string name="display_rotation_unit">độ</string>
+    <string name="display_rotation_category_title">Chế độ xoay</string>
+    <string name="display_rotation_0_title">0 độ</string>
+    <string name="display_rotation_90_title">90 độ</string>
+    <string name="display_rotation_180_title">180 độ</string>
+    <string name="display_rotation_270_title">270 độ</string>
+    
+    
+    <string name="tethering_allow_vpn_upstreams_title">Cho phép máy khách sử dụng VPN</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Cho phép các máy khách kết nối với điểm truy cập sử dụng VPN của thiết bị để kết nối đến máy chủ</string>
+    
+    
+    <string name="screenshot_shutter_sound_title">Âm thanh chụp màn hình</string>
+    
+    
+    <string name="navbar_invert_layout_title">Invert navigation bar layout</string>
+    <string name="navbar_invert_info">Swap the \"Back\" and \"Recents\" buttons on the navigation
+          bar</string>
+          
+    
+    <string name="high_touch_sensitivity_title">Độ nhạy cảm ứng cao</string>
+    <string name="high_touch_sensitivity_summary">Tăng độ nhạy của màn hình cảm ứng để có thể sử dụng khi đeo găng tay</string>
+
+    
+    <string name="touchscreen_hovering_title">Cảm ứng không chạm</string>
+    <string name="touchscreen_hovering_summary">Cho phép bạn di trên màn hình như chuột trong trình duyệt web, điều khiển máy tính từ xa, v.v</string>
+          
+    
+    <string name="high_touch_polling_rate_title">Tần số quét cảm ứng cao</string>
+    <string name="high_touch_polling_rate_summary">Tăng tần số quét của màn hình cảm ứng</string>
+    
+    
+    <string name="proximity_wake_title">Chặn màn hình vô tình bật</string>
+    <string name="proximity_wake_summary">Kiểm tra cảm biến tiệm cận trước khi bật màn hình</string>
+    
+    
+    <string name="charging_sounds_nos_title">Charging sound</string>
+    <string name="charging_vibro_title">Charging vibration</string>
+    
+    
+    <string name="power_button_torch_title">Bật đèn pin nhanh</string>
+    <string name="power_button_torch_summary">Khi màn hình tắt, nhấn và giữ nút nguồn để bật đèn flash</string>
+    <string name="torch_long_press_power_timeout_title">Tự động tắt đèn flash</string>
+    <string name="torch_long_press_power_timeout_never">Không bao giờ</string>
+    <string name="torch_long_press_power_timeout_1min">1 phút</string>
+    <string name="torch_long_press_power_timeout_2min">2 phút</string>
+    <string name="torch_long_press_power_timeout_5min">5 phút</string>
+    <string name="torch_long_press_power_timeout_10min">10 phút</string>
+    
+    
+    <string name="click_partial_screenshot_title">Click to partial screenshot</string>
+    <string name="click_partial_screenshot_summary">Short click Volume Down and Power to take partial screenshot</string>
+
+    
+    <string name="volume_steps_title">Mức âm lượng</string>
+    <string name="volume_steps_summary">Kiểm soát chi tiết các mức âm lượng</string>
+    <string name="max_music_volume_title">Đa phương tiện</string>
+    <string name="max_call_volume_title">Cuộc gọi</string>
+    <string name="max_alarm_volume_title">Báo thức</string>
+    <string name="steps_unit">bước</string>
+
+    
+    <string name="charging_control_title">Kiểm soát sạc</string>
+    <string name="charging_control_summary">Tuỳ chỉnh lịch sạc và giới hạn mức sạc của thiết bị</string>
+    <string name="charging_control_enable_title">Bật Kiểm soát sạc</string>
+    <string name="charging_control_mode_title">Chế độ sạc</string>
+    <string name="charging_control_mode_auto_title">Lịch trình tự động</string>
+    <string name="charging_control_mode_auto_summary">Tự động xác định thời điểm bắt đầu sạc dựa trên báo thức đã đặt</string>
+    <string name="charging_control_mode_custom_title">Lịch trình tùy chỉnh</string>
+    <string name="charging_control_mode_custom_summary">Đặt thời gian để pin được sạc đầy</string>
+    <string name="charging_control_mode_limit_title">Giới hạn sạc</string>
+    <string name="charging_control_mode_limit_summary">Đặt ra giới hạn sạc đến phần trăm pin nhất định</string>
+    <string name="charging_control_start_time_title">Thời gian bắt đầu</string>
+    <string name="charging_control_start_time_summary">Kiểm soát sạc sẽ kích hoạt khi bạn bắt đầu sạc sau %s</string>
+    <string name="charging_control_target_time_title">Đặt thời gian để pin được sạc đầy</string>
+    <string name="charging_control_target_time_summary">Pin sẽ được sạc đầy lúc %s</string>
+    <string name="charging_control_limit_title">Giới hạn</string>
+    <string name="reset">Reset</string>
+
+    
+    <string name="fast_charging_title">Sạc nhanh</string>
+    <string name="fast_charging_summary">Tắt để giảm nhiệt độ của thiết bị trong khi sạc hoặc để kéo dài tuổi thọ của pin</string>
+    <string name="restricted_current_summary">Đặt dòng điện sạc tối đa cho phép (mA)</string>
+    <string name="fastcharge_disabled_extended_summary">Charge limited to: <ns0:g id="current" example="3000 mA">%1$s</ns0:g>.</string>
+
+    
+    <string name="string_enabled">Đã bật</string>
+    <string name="string_disabled">Tắt</string>
+    <string name="string_on">Bật</string>
+    <string name="string_off">Tắt</string>
+    
+    
+    <string name="lockpattern_settings_enable_error_path_title">Hiển thị lỗi mẫu hình sai</string>
+    
+    <string name="lockpattern_settings_enable_dots_title">Hiện dấu chấm mẫu hình</string>
+    
+    
+    <string name="lock_pattern_size_3" translatable="false">3 \u00d7 3</string>
+    <string name="lock_pattern_size_4" translatable="false">4 \u00d7 4</string>
+    <string name="lock_pattern_size_5" translatable="false">5 \u00d7 5</string>
+    <string name="lock_pattern_size_6" translatable="false">6 \u00d7 6</string>
+    <string name="lock_settings_picker_pattern_size_message">Chọn kích cỡ mẫu hình</string>
+    
+    
+    <string name="unlock_scramble_pin_layout_title">Xáo trộn chữ số</string>
+    <string name="unlock_scramble_pin_layout_summary">Bố trí mã PIN ngẫu nhiên khi mở khóa thiết bị</string>
+
+    
+    <string name="gesture_navbar_length_title">Chiều dài thanh cử chỉ</string>
+    <string name="short_label">Ngắn</string>
+    <string name="long_label">Dài</string>
+    
+    
+    <string name="back_height_low_label">Đầy đủ</string>
+    <string name="back_height_high_label">Dưới cùng</string>
+    <string name="back_height_title">Chiều cao cử chỉ quay lại</string>
+    <string name="back_height_summary">Chiều cao màn hình hợp lệ cho cử chỉ quay lại</string>
+    
+    
+    <string name="background_processes_settings_title">Tiến trình dưới nền</string>
+
+    
+    <string name="smart_5g_title">Smart 5G</string>
+    <string name="smart_5g_summary">Automatically switch between 5G and 4G to reduce battery consumption</string>
+
+    
+    <string name="display_cutout_force_fullscreen_title">Ứng dụng toàn màn hình</string>
+    <string name="display_cutout_force_fullscreen_summary">Buộc các ứng dụng bỏ qua phần khuyết của màn hình</string>
+    <string name="display_cutout_force_fullscreen_search">Search</string>
+    <string name="display_cutout_force_fullscreen_search_apps">Search apps</string>
+
+    
+    <string name="gesture_settings_title">Gesture Navigation</string>
+
+    
+    <string name="show_navbar_gesture_bar_title">Gesture bar</string>
+    <string name="show_navbar_gesture_bar_summary">Show gesture bar at the bottom of the screen</string>
+
+    
+    <string name="navigation_bar_ime_space_title">Khoảng trống dưới bàn phím</string>
+    <string name="ime_narrow">Thu hẹp</string>
+    <string name="ime_default">Mặc định</string>
+    <string name="ime_hidden">Ẩn</string>
+
+    
+    <string name="dc_dimming_title">Giảm độ sáng</string>
+    <string name="dc_dimming_info">Giảm mỏi mắt trong điều kiện ánh sáng yếu bằng cách giảm thiểu hiện tượng nhấp nháy màn hình. Có thể làm giảm chất lượng hình ảnh và tạo ra màu sắc kém hoặc tiêu thụ điện năng cao hơn.</string>
+    <string name="dc_dimming_main_switch_title">Chỉnh độ sáng phù hợp màn hình</string>
+    <string name="keywords_display_dc_dimming">giảm độ sáng, chống nhấp nháy, mắt, căng thẳng</string>
+
+    
+    <string name="live_display_summary">Tối ưu hóa màn hình dựa trên điều kiện môi trường và thời gian trong ngày để cải thiện khả năng đọc và giảm mỏi mắt</string>
+    <string name="live_display_mode">Chế độ hiển thị</string>
+    <string name="live_display_color_temperature_title">Nhiệt độ màu</string>
+    <string name="live_display_color_temperature_summary">Ngày: <ns0:g id="day_temperature">%1$d</ns0:g>K  Night: <ns0:g id="night_temperature">%2$d</ns0:g>K</string>
+    <string name="live_display_color_temperature_label"><ns0:g id="degrees">%1$d</ns0:g>K</string>
+    <string name="live_display_day">Ngày</string>
+    <string name="live_display_night">Đêm</string>
+    <string name="live_display_outdoor_mode_title">Chế độ ngoài trời tự động</string>
+    <string name="live_display_outdoor_mode_summary">Tự động tăng độ sáng và độ bão hòa dưới ánh sáng mặt trời</string>
+    <string name="live_display_anti_flicker_title">Chống nhấp nháy</string>
+    <string name="live_display_anti_flicker_summary">Ngăn chặn hiện tượng nhấp nháy và giảm mỏi mắt trong điều kiện ánh sáng thấp. Nó có thể làm giảm độ chính xác màu và ảnh hưởng đến cách mà một số mục được hiển thị.</string>
+    <string name="live_display_low_power_title">Giảm tiêu thụ pin</string>
+    <string name="live_display_low_power_summary">Điều chỉnh màn hình để tiêu thụ pin ít nhất mà không làm giảm chất lượng</string>
+    <string name="live_display_enhance_color_title">Tăng cường màu sắc</string>
+    <string name="live_display_enhance_color_summary">Tăng độ tươi của màu sắc cho tông da, cảnh quan và các hình ảnh khác</string>
+    <string name="live_display_color_profile_title">Cấu hình màu</string>
+    <string name="live_display_color_profile_standard_title">Tiêu chuẩn</string>
+    <string name="live_display_color_profile_standard_summary">Màu sắc chính xác và màu trắng sáng</string>
+    <string name="live_display_color_profile_natural_title">Tự nhiên</string>
+    <string name="live_display_color_profile_natural_summary">Màu sắc và tông màu da gần với thực tế</string>
+    <string name="live_display_color_profile_dynamic_title">Sống động</string>
+    <string name="live_display_color_profile_dynamic_summary">Màu sắc được tăng cường và màu trắng sáng</string>
+    <string name="live_display_color_profile_cinema_title">Phim ảnh</string>
+    <string name="live_display_color_profile_cinema_summary">Tái tạo màu sắc hoàn hảo cho video</string>
+    <string name="live_display_color_profile_astronomy_title">Thiên văn học</string>
+    <string name="live_display_color_profile_astronomy_summary">Màu đỏ sâu để duy trì tầm nhìn trời đêm</string>
+    <string name="live_display_color_profile_photography_title">Nhiếp ảnh</string>
+    <string name="live_display_color_profile_photography_summary">Tái tạo màu sắc hoàn hảo cho hình ảnh</string>
+    <string name="live_display_color_profile_basic_title">Cơ bản</string>
+    <string name="live_display_color_profile_basic_summary">Sử dụng màu sắc gốc của màn hình</string>
+    <string name="live_display_color_profile_adaptive_title">Thích ứng</string>
+    <string name="live_display_color_profile_adaptive_summary">Màu sắc thích ứng với điều kiện môi trường</string>
+    <string name="live_display_color_profile_reading_title">Đọc sách</string>
+    <string name="live_display_color_profile_reading_summary">Các màu ấm hơn để giảm mỏi mắt</string>
+    <string name="live_display_color_profile_srgb_title">sRGB</string>
+    <string name="live_display_color_profile_srgb_summary">Màu sắc chính xác của không gian màu sRGB</string>
+    <string name="live_display_color_profile_dci_p3_title">DCI-P3</string>
+    <string name="live_display_color_profile_dci_p3_summary">Màu sắc chính xác của không gian màu DCI-P3</string>
+    <string name="live_display_reading_mode_title">Chế độ đọc sách</string>
+    <string name="live_display_reading_mode_summary">Chế độ màu đen trắng để đọc sách trong thời gian dài</string>
+    <string name="color_calibration_title">Hiệu chỉnh màu sắc</string>
+    <string name="color_calibration_summary">Hiệu chỉnh màu sắc của màn hình</string>
+    <string name="color_red_title">Đỏ</string>
+    <string name="color_green_title">Lục</string>
+    <string name="color_blue_title">Xanh da trời</string>
+
+    
+    <string name="picture_adjustment_title">Hiệu chỉnh hình ảnh</string>
+    <string name="picture_adjustment_summary">Hiệu chỉnh tông màu, bão hòa, cường độ và độ tương phản</string>
+    <string name="adj_hue_title">Màu sắc</string>
+    <string name="adj_saturation_title">Độ rực màu</string>
+    <string name="adj_intensity_title">Cường độ</string>
+    <string name="adj_contrast_title">Tương phản</string>
+
+    
+    <string name="force_lte_ca">Buộc LTE CA</string>
+    <string name="force_lte_ca_summary">Buộc cộng gộp sóng LTE hoạt động</string>
+
+    
+    <string name="bluetooth_timeout">Thời gian chờ Bluetooth</string>
+    
+    <string name="bluetooth_timeout_summary">Bluetooth sẽ tắt sau <ns0:g id="timeout_description">%1$s</ns0:g> if no devices connected</string>
+    <string name="bluetooth_timeout_summary2">Không tự động tắt Bluetooth</string>
+</resources>

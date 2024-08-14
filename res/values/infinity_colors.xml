@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright 2024 Project Infinity X
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources
+    xmlns:androidprv="http://schemas.android.com/apk/prv/res/android">
+
+    <color name="homepage_infinity_background">#FFCD00</color>
+    
+    <!-- xdUI Base Layout -->
+    <color name="homepage_blaze_background">#536dfe</color>
+    <color name="xd_background1">@android:color/system_neutral1_50</color>
+    
+    <!-- Custom colors-->
+    <color name="black">#171717</color>
+    <color name="off_black">#90171717</color>
+    <color name="white">#fff</color>
+    <color name="pureBlack">#000</color>
+    <color name="divider_light">#14000000</color>
+    <color name="card_outline_light">#33000000</color>
+    <color name="crd_bg">@android:color/system_neutral1_0</color>
+
+    <!-- Battery color -->
+    <color name="green_battery_percentage">#02C205</color>
+    <color name="orange_battery_percentage">#FF7700</color>
+    <color name="red_battery_percentage">#FF1100</color>
+
+</resources>
