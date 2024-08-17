@@ -701,11 +701,11 @@ public final class PhoneData {
             "50MP + 8MP + 2MP, 16MP"
         ));
        data.add(new AboutPhoneData(90,
-             "salaa",
-             "Mediatek Helio G95",
-             "5000",
-             "1080 x 2400, 90HZ",
-             "48MP + 8MP + 2MP, 16MP"
+             "RMX1901",
+             "Snapdragon 710",
+             "3765",
+             "1080 x 2340, 60HZ",
+             "48MP + 5MP"
        ));
     }
     public static List<AboutPhoneData> getData() {
