@@ -116,6 +116,12 @@
             android:targetClass="com.android.touch.gestures.TouchscreenGestureSettings" />
     </com.infinity.support.preferences.RemotePreference>
 
+ <Preference
+        android:key="columbus_input_summary"
+        android:title="@string/columbus_title"
+        android:fragment="com.google.android.settings.gestures.columbus.ColumbusSettings"
+        settings:controller="com.google.android.settings.gestures.columbus.ColumbusPreferenceController" />
+  
     <com.infinity.support.preferences.RemotePreference
             android:key="device_touchscreen_gesture_settings"
             android:title="@string/touchscreen_gesture_settings_title"
