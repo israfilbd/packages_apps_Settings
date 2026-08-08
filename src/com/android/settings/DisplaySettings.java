@@ -24,7 +24,7 @@ import android.provider.Settings;
 import android.text.TextUtils;
 import android.view.SurfaceControl;
 
-import com.android.internal.util.lunaris.SystemRestartUtils;
+import com.android.internal.util.android.SystemRestartUtils;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -85,6 +85,15 @@ public class DisplaySettings extends DashboardFragment {
         super.onCreate(icicle);
         mBlurAlgorithmPref = findPreference(KEY_BLUR_ALGORITHM);
         refreshBlurAlgorithmPreference();
+  
+        EnableBlursPreferenceController controller =
+            use(EnableBlursPreferenceController.class);
+
+        if (controller != null) {
+        controller.setOnPreferenceChangeListener(() -> {
+            refreshBlurAlgorithmPreference();
+        });
+      }
     }
 
     @Override

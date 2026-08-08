@@ -34,8 +34,14 @@ import com.android.settingslib.core.AbstractPreferenceController;
 public final class EnableBlursPreferenceController extends AbstractPreferenceController
         implements Preference.OnPreferenceChangeListener, PreferenceControllerMixin {
 
+    private Runnable mListener;
+
     private static final String ENABLE_BLURS_ON_WINDOWS = "enable_blurs_on_windows";
     private final boolean mBlurSupported;
+
+    public void setOnPreferenceChangeListener(Runnable listener) {
+        mListener = listener;
+    }
 
     public EnableBlursPreferenceController(Context context) {
         this(context, CROSS_WINDOW_BLUR_SUPPORTED);
@@ -55,8 +61,17 @@ public final class EnableBlursPreferenceController extends AbstractPreferenceCon
     @Override
     public boolean onPreferenceChange(Preference preference, Object newValue) {
         boolean enabled = (Boolean) newValue;
-        Settings.Global.putInt(mContext.getContentResolver(),
-                Settings.Global.DISABLE_WINDOW_BLURS, enabled ? 0 : 1);
+
+        Settings.Global.putInt(
+                mContext.getContentResolver(),
+                Settings.Global.DISABLE_WINDOW_BLURS,
+                enabled ? 0 : 1
+        );
+
+        if (mListener != null) {
+            mListener.run();
+        }
+
         return true;
     }
 
